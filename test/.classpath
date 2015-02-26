@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
 	<classpathentry sourcepath="C:/Users/mts/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="C:/Users/mts/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true"/>
 	<classpathentry sourcepath="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.easytesting/fest-assert-core/2.0M10/16321e3a0a61af0505a0d3726c6c75d0a44e34e8/fest-assert-core-2.0M10-sources.jar" kind="lib" path="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.easytesting/fest-assert-core/2.0M10/cb7c91cf614901928ae405f19d9bcdedf82781db/fest-assert-core-2.0M10.jar" exported="true"/>
 	<classpathentry sourcepath="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.fluentlenium/fluentlenium-core/0.10.2/2f88c38cb855760018abe8a936f3d32dd920c018/fluentlenium-core-0.10.2-sources.jar" kind="lib" path="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.fluentlenium/fluentlenium-core/0.10.2/8795bd4ce7050f0c45b772e8d3b36c39646e2f0b/fluentlenium-core-0.10.2.jar" exported="true"/>
@@ -53,4 +57,18 @@
 	<classpathentry sourcepath="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/2.41.0/67d2ea0ca0860c1434528650981e16cc5aef475b/selenium-support-2.41.0-sources.jar" kind="lib" path="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/2.41.0/ad6bc0c4f270e347a143c0a248e1513171f5d2e0/selenium-support-2.41.0.jar" exported="true"/>
 	<classpathentry sourcepath="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/2.41.0/9a0cfed6e9dd9beffb0ac66795657d7447bf322b/selenium-java-2.41.0-sources.jar" kind="lib" path="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/2.41.0/8cde7fbfe4bbef82354e9d48a989ee8062375332/selenium-java-2.41.0.jar" exported="true"/>
 	<classpathentry sourcepath="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/1.5.0/bbbaf414041cab4640cbe9213f3ca7fd8e6a1053/assertj-core-1.5.0-sources.jar" kind="lib" path="C:/Users/mts/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/1.5.0/d486ec2f10fb7e8ff3b01c34d4fe5732851b1b7d/assertj-core-1.5.0.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-bosh-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-compression-jzlib-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-core-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-core-compression-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-core-dns-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-debug-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-experimental-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-extensions-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-jingle-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-legacy-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-resolver-dnsjava-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-resolver-javax-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-resolver-minidns-4.0.7.jar" exported="true"/>
+	<classpathentry kind="lib" path="C:/Users/mts/Desktop/Study/study/tdd-exercise/test/libs/smack-tcp-4.0.7.jar" exported="true"/>
 </classpath>
